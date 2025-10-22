@@ -3189,7 +3189,7 @@ Animated 360° Carousel Section
  .floating-icon {
    position: absolute;
    bottom: 100px;
-   left: 110px;
+   left: 130px;
    transform: translate(-50%, -50%);
    width: 40px;
    height: 40px;
@@ -3233,13 +3233,13 @@ Animated 360° Carousel Section
  /* Hover Card Styles */
  .hover-card {
    position: absolute;
-   bottom: 150px;
-   left: 110px;
-   width: 580px;
-   height: 340px;
+   bottom: 80px;
+   left: 150px;
+   width: 650px;
+   height: 380px;
    background: #fff;
    border-radius: 12px;
-   padding: 30px;
+   padding: 50px;
    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
    z-index: 10;
    opacity: 0;
@@ -3260,7 +3260,7 @@ Animated 360° Carousel Section
    color: #000;
    margin-bottom: 8px;
    font-weight: 600;
-   font-size: 2rem;
+   font-size: 3rem;
    line-height: 1.2;
  }
 
@@ -3278,7 +3278,7 @@ Animated 360° Carousel Section
    color: #666;
    margin-bottom: 20px;
    line-height: 1.8;
-   font-size: 0.95rem;
+   font-size: 1rem;
    font-weight: 400;
  }
 
@@ -3298,20 +3298,6 @@ Animated 360° Carousel Section
    align-items: center;
    width: 100%;
    margin-top: 15px;
- }
-
- .hover-card .btn {
-   background: #ff3d3d;
-   color: white;
-   border: none;
-   padding: 10px 25px;
-   border-radius: 50px;
-   font-weight: 400;
-   transition: background 0.3s;
- }
-
- .hover-card .btn:hover {
-   background: #ff5252;
  }
 
  /* Features List */
